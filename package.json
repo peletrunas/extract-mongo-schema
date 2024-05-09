@@ -28,12 +28,12 @@
   "dependencies": {
     "command-line-args": "^3.0.5",
     "fs": "0.0.1-security",
-    "mongodb": "^6.0.0",
+    "mongodb": "4.0.0",
     "path": "^0.12.7",
     "xlsx": "^0.17.0"
   },
   "overrides": {
-    "mongodb": "^6.0.0"
+    "mongodb": "4.0.0"
   },
   "devDependencies": {
     "eslint": "^5.14.0",
